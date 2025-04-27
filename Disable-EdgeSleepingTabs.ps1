@@ -8,8 +8,8 @@
     'SleepingTabsEnabled' en 0, deshabilitando así las pestañas en suspensión.
     Requiere privilegios de administrador.
 .NOTES
-    Autor: [Tu Nombre/Organización]
-    Fecha: [Fecha Actual]
+    Autor: Pablo Alexandre
+    Fecha: 2025.04.27
     Requiere: Privilegios de Administrador, PowerShell.
 #>
 #Requires -RunAsAdministrator
